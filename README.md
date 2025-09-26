@@ -1,2 +1,2 @@
-# Contentsquare Artificial Pageview Tag for GTM
-Trigger Artificial Pageviews
+# Contentsquare Custom Error Tag for GTM
+Send custom errors
