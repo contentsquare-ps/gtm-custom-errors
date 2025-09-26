@@ -1,5 +1,5 @@
 homepage: "https://contentsquare.com/"
 documentation: "https://docs.contentsquare.com/en/web/sending-custom-errors/"
 versions:
-    - sha: 
+    - sha: e8d3647c060ada5858ca7eb2b41acd3e82929df1
       changeNotes: First Version
